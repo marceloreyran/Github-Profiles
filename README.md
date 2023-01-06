@@ -1,2 +1,2 @@
 # Github-Profiles
-Este es es un buscador de perfiles de usuario en Github.
+This is a search engine for user profiles on Github
